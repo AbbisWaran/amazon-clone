@@ -22,7 +22,7 @@ function Home() {
           <Product
             id="23"
             title="New Apple iPhone 12 Mini (64GB) - Black"
-            price={94.29}
+            price={99.99}
             image="https://images-na.ssl-images-amazon.com/images/I/41eeQ1z4SlL._SX330_BO1,204,203,200_.jpg"
             rating={4}
             quantity={1}
